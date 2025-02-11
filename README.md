@@ -17,26 +17,23 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/publicrust/rust-launcher">
-    <img src="images/logo.jfif" alt="Logo" width="80" height="80">
+  <a 
+    <img src="https://i.ibb.co/xtN6C1hX/Picsart-25-02-08-23-50-14-428.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Rust Launcher Templates</h3>
+  <h3 align="center">Launcher for Rust clients</h3>
 
   <p align="center">
-    Launcher templates for Rust
+    Launcher for Rust clients
     <br />
-    <a href="https://github.com/publicrust/rust-launcher"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/dens09/RustLauncher/"><strong>Explore the docs »</strong></a>
     <br />
     <br />    
-    <a href="https://github.com/publicrust/rust-launcher/issues/new?labels=bug">Report Bug</a>
+    <a href="https://github.com/dens09/RustLauncher/issues/new?labels=bug">Report Bug</a>
     &middot;
-    <a href="https://github.com/publicrust/rust-launcher/issues/new?labels=enchancement">Request Feature</a>
+    <a href="https://github.com/dens09/RustLauncher/issues/new?labels=enchancement">Request Feature</a>
   </p>
 </div>
-
-
-
 
 
 
@@ -46,10 +43,10 @@
 
 
 
-This project includes launchers on different languages(C#, C++, Python) for Rust. 
-
-Its fully open source and can be used by anyone for learning or for projects
-
+This project includes a launcher in different languages ​​(C#, Python) for Rust.
+This launcher is still raw, but it is a little ready for use.
+The essence of the launcher is to download pirated Rust clients with display of all Rust servers.
+Different versions of Devblogs, so far starting from 220 Devblog.
 
 
 
@@ -59,37 +56,10 @@ Its fully open source and can be used by anyone for learning or for projects
 
 ### Programming Languages
 
-In future there will be more languages as i learn them
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * ![C#][Angular.io] C#
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting started
-
-* Download Microsoft Visual studio 
-* Clone or download needed projects
-* Open SLN file
-
-
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
-
 
 
 
@@ -97,7 +67,7 @@ In future there will be more languages as i learn them
 <!-- CONTACT -->
 ## Contact
 
-Owner - [@waymall](https://steamcommunity.com/id/waymall/) - https://discord.gg/jZKVDjT8Vx
+Owner - [@Dens](https://steamcommunity.com/profiles/76561199627817501/) - https://discord.gg/VwFHF6QbXT
 
 
 
@@ -109,23 +79,12 @@ Owner - [@waymall](https://steamcommunity.com/id/waymall/) - https://discord.gg/
 ## Useful Resources
 
 
-
-* [Visual Studio](https://visualstudio.microsoft.com/ru/)
-* [Public Rust](https://github.com/publicrust)
-* [Discord](https://discord.gg/jZKVDjT8Vx)
+* [Public Rust](https://github.com/dens09/)
+* [Discord](https://discord.gg/VwFHF6QbXT)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[Next.js]: https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white
-[Next-url]: https://github.com/topics/cpp
-[React.js]: https://img.shields.io/badge/Net-20232A?style=for-the-badge&logo=dotnet&logoColor=61DAFB
-[React-url]: https://dotnet.microsoft.com/ru-ru/
 [Vue.js]: https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white
 [Vue-url]: https://www.python.org/
 [Angular.io]: https://img.icons8.com/?size=20&id=45490&format=png&color=000000
